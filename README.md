@@ -44,6 +44,7 @@ The **CICIoV2024** dataset is a comprehensive benchmark designed for cybersecuri
 - **Attack Samples:** 184,482  
 - **Number of Features:** 11  
 - **Attack Types:** 5 (plus benign class)
+![image](https://github.com/user-attachments/assets/dfae3b0a-748e-45b5-8fe5-18e41379bd2c)
 
 ### Classes
 
@@ -188,6 +189,8 @@ Running the experiments and notebooks in this repository will generate several k
   - ROC-AUC (if applicable)
 
 ### 3. Visualizations
+![image](https://github.com/user-attachments/assets/a553c56a-2660-4301-bde1-ec021022bafc)
+![image](https://github.com/user-attachments/assets/b3bb6e8a-d310-4d4f-bb35-156ba573ea5f)
 
 - **Types of Output Graphs:**
   - Confusion Matrix heatmap
