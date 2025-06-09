@@ -1,6 +1,4 @@
 # CICIoV2024
-XGB boost 
-# CICIoV2024
 
 ## Overview
 
